@@ -20,7 +20,7 @@ Created JSON file:
 ## Technologies
 Project is created with:
 - **Dagger 2**
-- **RxJava**
+- **RxJava 2**
 - **Retrofit 2**
 - **Glide**
 - **Mockito**
